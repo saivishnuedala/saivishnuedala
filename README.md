@@ -13,7 +13,7 @@ A Cloud Platform and a DevOps Engineer (Build Automation, Release engineering, U
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/saivishnuedala/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/saivishnuedala/" height="30" width="40" /></a></br></br>
-<a href="mailto:saivishnue0409@gmail.com"><b>Click here to Email Me</b></a>
+<a href="mailto:saivishnue0409@gmail.com"><b>Click here to email me</b></a>
 
 </p>
 
