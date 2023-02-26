@@ -1,4 +1,4 @@
-# Hello, I am Sai Vishnu Edala <img src="https://github.com/ABSphreak/ABSphreak/blob/master/gifs/Hi.gif" width="30px">
+# Hello, I am Sai Vishnu Edala :wave:
 
 - A DevOps Enginner and MEAN Stack Developer :computer:
 - Cloud Guy :cloud:
