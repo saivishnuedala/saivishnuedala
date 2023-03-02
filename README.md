@@ -3,7 +3,7 @@
 - A DevOps Enginner and MEAN Stack Developer :computer:
 - Cloud Guy :cloud:
 - A Computer Science Graduate 👨‍🎓
-- A full time Astrophile :rocket: :milky_way:
+- A Astrophile :rocket: :milky_way:
 <div align="center" width="50">
 
 </div>
